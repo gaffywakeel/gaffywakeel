@@ -34,18 +34,14 @@ Here are a few things I’ve built or contributed to:
 ---
 
 ## 📫 Let's Connect
-```
+
 - 💼 [Portfolio Website](#)
-```
-```
-- 🐦 [Twitter](#) @gaffywakeel
-```
-```
-- 💬 [LinkedIn](#) @gaffywakeel
-```
-```
-- 📩 Email: [abdulgafarwakeel@gmail.com](mailto:abdulgafarwakeel@gmail)
-```
+
+- 🐦 [Twitter](#) ``` @gaffywakeel ```
+
+- 💬 [LinkedIn](#) ``` @gaffywakeel ```
+
+- 📩 Email: [ ``` abdulgafarwakeel@gmail.com ```](mailto:abdulgafarwakeel@gmail) 
 ---
 
 ## ⚡ Fun Fact
